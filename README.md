@@ -1,2 +1,10 @@
-# Dorms-Management-System
-A system to help students book/cancel/or even call for maintenance for their rooms. Used Oriented Programming (OOP) , Encapsulation, Polymorphism Inheritance  Interfaces &amp; Packages - Socket Programming - Multithreading
+# Dorms Management System
+A multi-threaded, socket-based dorms booking system built in Java.
+
+## Features
+- Room booking via command-line interface
+- OOP design (encapsulation, polymorphism, inheritance)
+- Socket programming & multithreading
+
+## Technologies
+Java, OOP, Sockets, Multithreading
